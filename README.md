@@ -6,7 +6,7 @@
 
 ## Example usage:
 
-**_Keyword => |include|            Line: 151, Column: 77
+Keyword => |include|            Line: 151, Column: 77
 LessThan => |<|                 Line: 227, Column: 81
 Identifier => |iostream|                Line: 159, Column: 78
 GreaterThan => |>|              Line: 229, Column: 84
@@ -65,4 +65,4 @@ Number => |0|           Line: 141, Column: 107
 Semicolon => |;|                Line: 199, Column: 82
 RightBrace => |}|               Line: 195, Column: 83_**
 
-> **_End of the code!_**
+> **_End of the code!
