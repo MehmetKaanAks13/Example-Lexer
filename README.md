@@ -7,8 +7,11 @@
 ## Example usage:
 
 Keyword => |include|            Line: 151, Column: 77
+
 LessThan => |<|                 Line: 227, Column: 81
+
 Identifier => |iostream|                Line: 159, Column: 78
+
 GreaterThan => |>|              Line: 229, Column: 84
 Comment => |# The main function.|               Line: 168, Column: 108
 DataType => |int|               Line: 157, Column: 79
