@@ -6,7 +6,7 @@
 
 ## Example usage:
 
-**_Keyword => |include|            Line: 151, Column: 77
+**_Keyword => |include|            Line: 151, Column: 77\n
 LessThan => |<|                 Line: 227, Column: 81
 Identifier => |iostream|                Line: 159, Column: 78
 GreaterThan => |>|              Line: 229, Column: 84
