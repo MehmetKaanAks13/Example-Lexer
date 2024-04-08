@@ -83,6 +83,7 @@ DataType => |boolean|           Line: 157, Column: 79
 Identifier => |a|               Line: 159, Column: 78
 
 Assign => |=|           Line: 185, Column: 79
+
 Boolean => |true|               Line: 154, Column: 77
 
 Semicolon => |;|                Line: 199, Column: 82
